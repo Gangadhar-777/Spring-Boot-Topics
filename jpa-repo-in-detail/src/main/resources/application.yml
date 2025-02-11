@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: repos
+  output:
+    ansi:
+      enabled: always
+  datasource:
+    url: jdbc:mysql://localhost:3306/my3personal
+    username: root
+    password: root
